@@ -15,7 +15,7 @@ Hızlı Yanıt – Admin veya yetkililer anında mesaj gönderebilir.
 
 Repo’yu klonlayın veya indirin:
 
-git clone https://github.com/kullaniciAdi/lovedevs-ticket.git
+git clone https://github.com/lovesoftwares/TicketLove
 
 
 Node.js modüllerini yükleyin:
